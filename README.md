@@ -5,4 +5,4 @@ The platform used here is Coding ninjas and the language used is java. So, while
 
 The topic wise classification of the problems are defined in the brances of the repoisitory.
 
-##Linked List
+#Linked List
