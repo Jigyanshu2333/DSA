@@ -8,3 +8,5 @@ The topic wise classification of the problems are defined in the brances of the 
 ## Linked List
 1. Introduction to LL
 2. Introduction to DLL
+3. Delete Node of LL
+
